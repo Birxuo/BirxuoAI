@@ -1,6 +1,4 @@
-Below is a sample README file for **BIRXUO AI ON**. You can adjust the sections as needed:
 
----
 
 # BIRXUO AI ON
 
@@ -126,6 +124,3 @@ This project is licensed under the [Apache-2.0 License](./LICENSE).
 
 For further information or support, please open an issue on [GitHub](https://github.com/Birxuo/Birxuo/issues) or contact the project maintainers.
 
----
-
-Feel free to modify and expand this README as your project evolves. Happy coding!
