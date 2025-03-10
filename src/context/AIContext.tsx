@@ -32,7 +32,7 @@ interface AIContextType {
 const AIContext = createContext<AIContextType | undefined>(undefined);
 
 // Default OpenRouter API key
-const DEFAULT_API_KEY = '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';
+const DEFAULT_API_KEY = '';
 
 export const useAI = () => {
   const context = useContext(AIContext);
