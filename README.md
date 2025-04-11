@@ -1,10 +1,10 @@
 
 
-# BIRXUO AI ON
+# BIRXUO 
 
 **Unlock the Power of AI – Seamlessly.**
 
-BIRXUO AI ON is a cutting-edge web application that brings advanced AI capabilities to your fingertips. Built with modern web technologies, it offers an intuitive interface designed for scalability and high performance.
+BIRXUO  is a cutting-edge web application that brings advanced AI capabilities to your fingertips. Built with modern web technologies, it offers an intuitive interface designed for scalability and high performance.
 
 ---
 
@@ -26,7 +26,7 @@ BIRXUO AI ON is a cutting-edge web application that brings advanced AI capabilit
 
 ## Overview
 
-BIRXUO AI ON is designed to empower users by integrating robust AI functionalities within a user-friendly web interface. Whether you are looking to automate tasks, perform data analysis, or generate dynamic content, BIRXUO AI ON provides the tools to do it all.
+BIRXUO is designed to empower users by integrating robust AI functionalities within a user-friendly web interface. Whether you are looking to automate tasks, perform data analysis, or generate dynamic content, BIRXUO AI ON provides the tools to do it all.
 
 ---
 
@@ -42,8 +42,8 @@ BIRXUO AI ON is designed to empower users by integrating robust AI functionaliti
 
 ## Technologies
 
-BIRXUO AI ON is built using:
-
+BIRXUO is built using:
+- **Node.js** backend Serving as the backbone of our application, Node.js powers the server-side logic with a high-performance, event-driven architecture. Its non-blocking I/O model and efficient V8 engine are critical for managing real-time data processing and AI computations, ensuring the platform is both scalable and responsive.
 - **TypeScript** – for robust type checking and scalability.
 - **Vite** – for a fast development experience and optimized builds.
 - **Tailwind CSS** – for a highly customizable and modern UI.
