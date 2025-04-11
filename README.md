@@ -1,11 +1,6 @@
 
 # BIRXUO AI ON
 
-<div align="center">
-  <img src="/api/placeholder/800/200" alt="BIRXUO AI ON Logo" />
-  <h3>Unlock the Power of AI – Seamlessly.</h3>
-</div>
-
 BIRXUO is a cutting-edge web application that brings advanced AI capabilities to your fingertips. Built with modern web technologies, it offers an intuitive interface designed for scalability and high performance.
 
 ![GitHub stars](https://img.shields.io/github/stars/Birxuo/Birxuo?style=social)
@@ -70,13 +65,6 @@ graph TD
     C --> D[AI Services]
     D --> E[External Services]
 
-    style A fill:#e0f7fa,stroke:#0277bd
-    style B fill:#bbdefb,stroke:#1976d2
-    style C fill:#d1c4e9,stroke:#512da8
-    style D fill:#d1c4e9,stroke:#512da8
-    style E fill:#ffcdd2,stroke:#d32f2f
-```
-
 ### Component Breakdown
 
 Our system is divided into four primary layers:
@@ -110,11 +98,6 @@ Our system is divided into four primary layers:
 ## 🔄 Data Flow
 
 BIRXUO processes data through a sophisticated pipeline designed for maximum efficiency:
-
-<div align="center">
-  <img src="/api/placeholder/800/300" alt="BIRXUO Data Flow Diagram" />
-  <p><em>Data flow from input to analysis and visualization</em></p>
-</div>
 
 1. **Input Stage**
    - Raw data input with format detection
