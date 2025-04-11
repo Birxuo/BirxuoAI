@@ -53,13 +53,6 @@ BIRXUO is designed to empower users by integrating robust AI functionalities wit
 
 BIRXUO follows a modern, layered architecture designed for scalability and maintainability.
 
-```mermaid
-graph TD
-    A[Client Browser] --> B[BIRXUO Application]
-    B --> C[Backend Services]
-    C --> D[AI Services]
-    D --> E[External Services]
-
 ### Component Breakdown
 
 Our system is divided into four primary layers:
