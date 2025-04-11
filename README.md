@@ -245,11 +245,6 @@ Contributions are welcome! If you have ideas, feature requests, or bug fixes, pl
 4. Push to the branch: `git push origin feature/my-feature`
 5. Open a pull request
 
-<div align="center">
-  <img src="/api/placeholder/600/300" alt="BIRXUO Contribution Process" />
-  <p><em>Visualization of the contribution workflow</em></p>
-</div>
-
 For more detailed guidelines, please refer to the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
 
 ---
@@ -260,7 +255,7 @@ This project is licensed under the [Apache-2.0 License](./LICENSE).
 
 ---
 
-## 📞 Contact
+## Contact
 
 For further information or support, please open an issue on [GitHub](https://github.com/Birxuo/Birxuo/issues) or contact the project maintainers.
 
