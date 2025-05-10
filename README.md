@@ -1,5 +1,5 @@
 
-# BIRXUO AI ON
+# BIRXUO
 
 BIRXUO is a cutting-edge web application that brings advanced AI capabilities to your fingertips. Built with modern web technologies, it offers an intuitive interface designed for scalability and high performance.
 
