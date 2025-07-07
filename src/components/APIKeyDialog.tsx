@@ -41,7 +41,7 @@ const APIKeyDialog: React.FC = () => {
       description: "Your API keys, voice settings, and AI model selection have been saved."
     });
   };
-  const isDefaultKey = apiKey === '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';
+  const isDefaultKey = apiKey === 'YOU API KEY';
   const isDefaultElevenLabsKey = elevenLabsApiKey === DEFAULT_API_KEY;
   return <Dialog open={open} onOpenChange={setOpen}>
       <DialogTrigger asChild>
