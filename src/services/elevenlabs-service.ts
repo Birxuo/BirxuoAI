@@ -8,7 +8,7 @@ interface ElevenLabsSpeechParams {
 
 export const DEFAULT_VOICE_ID = "pNInz6obpgDQGcFmaJgB"; // Adam voice
 export const DEFAULT_MODEL_ID = "eleven_multilingual_v2";
-export const DEFAULT_API_KEY = "sk_bb1a2961c407943a0cdafeab9928a0fece43292547f967b3";
+export const DEFAULT_API_KEY = "YOUR API KEY";
 
 export const generateSpeech = async ({ 
   text, 
