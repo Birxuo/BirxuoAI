@@ -46,7 +46,7 @@ interface AIContextType {
 const AIContext = createContext<AIContextType | undefined>(undefined);
 
 // Default OpenRouter API key
-const DEFAULT_API_KEY = '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';
+const DEFAULT_API_KEY = 'YOUR API KEY';
 const DEFAULT_MODEL = 'qwen/qwen3-235b-a22b:free';
 
 export const useAI = () => {
