@@ -1,4 +1,4 @@
-Below is a sample **SECURITY.md** file for BIRXUO AI ON. You can customize it further to fit your project's specifics.
+Below is a sample **SECURITY.md** file for BIRXUO AI. You can customize it further to fit your project's specifics.
 
 ---
 
@@ -13,7 +13,7 @@ If you discover a security vulnerability or suspect a potential security issue, 
 ### How to Report
 
 - **Email:** Send details to our security team at [birxuo@hotmail.com](mailto:BIRXUO@hotmail.com)
-- **GitHub:** Alternatively, you may open a private issue via our [GitHub Issues](https://github.com/Birxuo/Birxuo/issues) page. When using GitHub, please mark the issue title with `[SECURITY]` to indicate its sensitive nature.
+- **GitHub:** Alternatively, you may open a private issue via our [GitHub Issues](https://github.com/Birxuo/BirxuoAI/issues) page. When using GitHub, please mark the issue title with `[SECURITY]` to indicate its sensitive nature.
 
 ### What to Include
 
@@ -32,7 +32,7 @@ When reporting a security issue, please provide as much detail as possible, incl
 
 ## Supported Versions
 
-BIRXUO AI ON is actively maintained on the main branch. Security patches and updates will be applied to all supported versions of the project.
+BIRXUO AI is actively maintained on the main branch. Security patches and updates will be applied to all supported versions of the project.
 
 ## Responsible Disclosure
 
